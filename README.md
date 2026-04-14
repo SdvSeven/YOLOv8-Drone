@@ -4,3 +4,4 @@
 A python project with a GEOSCAN-Pioneer drone. Detection of specific objects using the Roboflow framework and the YOLOv8 model, on the GoogleColab platform (optional).
 
 Co-authored-by: SdvSeven <ssdvseven@gmail.com>
+ 
